@@ -12,7 +12,7 @@
 ---
 
 ## 🛠 Tech Stack  
-**Frontend:** React, Next.js, Tailwind, SASS/SCSS
+**Frontend:** React, Next.js, Tailwind
 **Backend:** Node.js, Golang, Python  
 **Blockchain:** Solidity, Rust, Solana, Ethereum  
 **Databases:** MongoDB  
