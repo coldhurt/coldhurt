@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🌟 Myths — Frontend/Fullstack Engineer | Blockchain Enthusiast  
 
-<!--
-**coldhurt/coldhurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _"Building the future, one block at a time."_  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me  
+- 🔹 **10+ years** of development experience  
+- 💻 Specializing in **React, Rust, Solidity, Node.js**  
+- ⛓️ Passionate about **DeFi, Solana, and blockchain apps**  
+
+---
+
+## 🛠 Tech Stack  
+**Frontend:** React, Next.js, Tailwind, SASS/SCSS
+**Backend:** Node.js, Golang, Python  
+**Blockchain:** Solidity, Rust, Solana, Ethereum  
+**Databases:** MongoDB  
+**Other:** WebSocket, Express, Socket.IO  
+
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coldhurt&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coldhurt&layout=compact&theme=radical)  
+
+</div>
+
+---
+
+⭐ _If you like my work, give a star to my projects!_
